@@ -1,4 +1,4 @@
-﻿namespace Aula01;
+﻿namespace ListaDeCompras;
 using System.IO;
 
 public class Program

@@ -12,3 +12,4 @@
 /home/erickcastro/Documentos/programação/dotnet studos/ListaDeCompras/obj/Debug/net10.0/ListaDeCompras.pdb
 /home/erickcastro/Documentos/programação/dotnet studos/ListaDeCompras/obj/Debug/net10.0/ListaDeCompras.genruntimeconfig.cache
 /home/erickcastro/Documentos/programação/dotnet studos/ListaDeCompras/obj/Debug/net10.0/ref/ListaDeCompras.dll
+/home/erickcastro/Documentos/programação/dotnet studos/ListaDeCompras/obj/Debug/net10.0/ListaDeCompras.sourcelink.json
